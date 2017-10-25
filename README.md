@@ -1,3 +1,3 @@
-# OpenZ64 Plausibility Project
+# Dummy
 
-Collecting documentation and notes relevant to any open source implementation of the Zelda64 engine.
+Gimme a one
